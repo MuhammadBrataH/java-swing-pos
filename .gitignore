@@ -1,0 +1,17 @@
+# File kompilasi Java (Bytecode)
+*.class
+
+# File log
+*.log
+
+# File IDE (seperti NetBeans, Eclipse, IntelliJ)
+/nbproject/
+/build/
+/dist/
+/.idea/
+/out/
+*.iml
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
